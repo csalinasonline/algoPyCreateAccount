@@ -19,6 +19,10 @@ git clone https://github.com/csalinasonline/algoPyCreateAccount.git
 ```
 
 ## Run Pip
+```bash
+# Mac, Linux and Windows
+pip install -r requirements.txt
+```
 
 ## Activating a Virtual Environment
 ```bash
