@@ -13,7 +13,10 @@ https://www.python.org/downloads/
 
 
 ## Clone Repo
-
+```bash
+# Mac, Linux and Windows
+git clone https://github.com/csalinasonline/algoPyCreateAccount.git
+```
 
 ## Run Pip
 
