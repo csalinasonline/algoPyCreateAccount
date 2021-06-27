@@ -17,8 +17,28 @@ https://www.python.org/downloads/
 
 ## Run Pip
 
+## Activating a Virtual Environment
+```bash
+# Mac and Linux
+source env/bin/activate
 
-## Enable Virtual Environment
+# windows
+.\env\Scripts\activate
 
+# find Mac or Linux python interpeter
+which python
+.../env/bin/python
+
+# ... on Windows
+where python
+.../env/bin/python.exe
+```
 
 ## Run program
+
+
+
+## Deactivating the Virtual Environment
+```bash
+deactivate
+```
