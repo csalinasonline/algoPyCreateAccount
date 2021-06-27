@@ -5,6 +5,9 @@ Inspired by original tutorial here:
 
 https://developer.algorand.org/tutorials/create-account-testnet-python/
 
+To fund accounts on TestNet go here for free algos:
+https://bank.testnet.algorand.network/
+
 
 ## Install Python 3
 Go here and install python 3 for Win, Mac or Linux here: 
@@ -39,7 +42,7 @@ cd <your target dir>
 git clone https://github.com/csalinasonline/algoPyCreateAccount.git
 ```
 
-## Change Repo Directory
+## Change to Repo Directory
 ```bash
 # Mac, Linux and Windows
 cd algoPyCreateAccount
