@@ -2,19 +2,20 @@
 Algorand Blockchain using Python to create account on TestNet
 
 Inspired by original tutorial here: 
-
 https://developer.algorand.org/tutorials/create-account-testnet-python/
 
-To fund accounts on TestNet go here for free algos:
+To fund accounts on TestNet go here for free algos (fake monies to work on the algorand blockchain):
 https://bank.testnet.algorand.network/
 
 
 ## Install Python 3
 Go here and install python 3 for Win, Mac or Linux here: 
-
 https://www.python.org/downloads/
 
+Can be done other ways but it can be a can of worms.  Google is your friend. Use it!.
+
 ## Setting Python Path
+Setting path is tricky but doable as above section.
 ```bash
 # Mac, Linux
 export PATH=”$PATH:/usr/local/bin/python”
@@ -31,12 +32,14 @@ Windows 10 is more complicated.
 
 
 ## Change to Target Directory
+Where u want to put the project directory and its files.
 ```bash
 # Mac, Linux and Windows
 cd <your target dir>
 ```
 
 ## Clone Repo
+Copy the code.
 ```bash
 # Mac, Linux and Windows
 git clone https://github.com/csalinasonline/algoPyCreateAccount.git
@@ -49,12 +52,14 @@ cd algoPyCreateAccount
 ```
 
 ## Run Pip
+Install dependencies.
 ```bash
 # Mac, Linux and Windows
 pip install -r requirements.txt
 ```
 
 ## Activating a Virtual Environment
+Turn on the sandbox.
 ```bash
 # Mac and Linux
 source env/bin/activate
@@ -72,6 +77,7 @@ where python
 ```
 
 ## Run program
+Finally run the program.
 ```bash
 # Mac, Linux and Windows
 python main.py
@@ -97,6 +103,7 @@ Saving account info to file.
 ```
 
 ## Deactivating the Virtual Environment
+Turn off sandbox.
 ```bash
 deactivate
 ```
