@@ -11,6 +11,22 @@ Go here and install python 3 for Win, Mac or Linux here:
 
 https://www.python.org/downloads/
 
+## Setting Python Path
+```bash
+# Mac, Linux
+export PATH=”$PATH:/usr/local/bin/python”
+```
+
+Windows 10 is more complicated.
+
+- Go into "Run" prompt and enter "**sysdm.cpl**"
+- This should open up the **System Properties** window. Go to the **Advanced** tab and click the **Environment Variables** button.
+- In the **System variable** window, find the **Path** variable and click **Edit**:
+- Position your cursor at the end of the **Variable** **value** line and add the path to the **python.exe** file, preceded with the semicolon character (**;**). 
+- Example:
+  -  **;C:\Python\Python39**
+
+
 ## Change to Target Directory
 ```bash
 # Mac, Linux and Windows
