@@ -11,11 +11,22 @@ Go here and install python 3 for Win, Mac or Linux here and make sure to add to 
 
 https://www.python.org/downloads/
 
+## Change to Target Directory
+```bash
+# Mac, Linux and Windows
+cd <your target dir>
+```
 
 ## Clone Repo
 ```bash
 # Mac, Linux and Windows
 git clone https://github.com/csalinasonline/algoPyCreateAccount.git
+```
+
+## Change Repo Directory
+```bash
+# Mac, Linux and Windows
+cd algoPyCreateAccount
 ```
 
 ## Run Pip
