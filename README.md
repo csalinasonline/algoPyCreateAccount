@@ -1,6 +1,9 @@
 # algoPyCreateAccount
 Algorand Blockchain using Python to create account on TestNet
 
+Inspired by original tutorial here: 
+
+[https://developer.algorand.org/tutorials/create-account-testnet-python/]:  	"Create an Account on TestNet with Python"
 
 
 ## Install Python 3
