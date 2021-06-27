@@ -7,7 +7,7 @@ https://developer.algorand.org/tutorials/create-account-testnet-python/
 
 
 ## Install Python 3
-Go here and install python 3 for Win, Mac or Linux here and make sure to add to path: 
+Go here and install python 3 for Win, Mac or Linux here: 
 
 https://www.python.org/downloads/
 
