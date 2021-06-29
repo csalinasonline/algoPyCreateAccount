@@ -9,11 +9,11 @@ https://bank.testnet.algorand.network/
 
 
 ## Install Python 3
-Go here and install python 3 for Win, Mac or Linux here: 
+Go here and install python 3.9.x for Win, Mac or Linux here: 
 https://www.python.org/downloads/
 
 ## Install miniconda
-Go here and install python 3 for Win, Mac or Linux here: 
+Go here and install miniconda 3.9.x for Win, Mac or Linux here: 
 https://docs.conda.io/en/latest/miniconda.html
 
 Can be done other ways but it can be a can of worms.  Google is your friend. Use it!.
