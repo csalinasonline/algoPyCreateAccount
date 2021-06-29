@@ -12,6 +12,10 @@ https://bank.testnet.algorand.network/
 Go here and install python 3 for Win, Mac or Linux here: 
 https://www.python.org/downloads/
 
+## Install miniconda
+Go here and install python 3 for Win, Mac or Linux here: 
+https://docs.conda.io/en/latest/miniconda.html
+
 Can be done other ways but it can be a can of worms.  Google is your friend. Use it!.
 
 ## Setting Python Path
@@ -51,29 +55,24 @@ git clone https://github.com/csalinasonline/algoPyCreateAccount.git
 cd algoPyCreateAccount
 ```
 
+## Activating a Virtual Environment
+Close current terminal.
+Change directory to '../algoPyCreateAccount'
+
+Turn on the sandbox.
+```bash
+# Mac, Linux and Windows
+conda create -n algoPyCreateAccount python=3.9
+
+# activate environment
+conda activate algoPyCreateAccount
+```
+
 ## Run Pip
 Install dependencies.
 ```bash
 # Mac, Linux and Windows
 pip install -r requirements.txt
-```
-
-## Activating a Virtual Environment
-Turn on the sandbox.
-```bash
-# Mac and Linux
-source env/bin/activate
-
-# windows
-.\env\Scripts\activate
-
-# find Mac or Linux python interpeter
-which python
-.../env/bin/python
-
-# ... on Windows
-where python
-.../env/bin/python.exe
 ```
 
 ## Run program
@@ -105,5 +104,5 @@ Saving account info to file.
 ## Deactivating the Virtual Environment
 Turn off sandbox.
 ```bash
-deactivate
+conda deactivate
 ```
