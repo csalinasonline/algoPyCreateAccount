@@ -42,13 +42,13 @@ def main():
     the TestNet Dispenser at https://bank.testnet.algorand.network/")
     print("copy off the following mnemonic code for use later")
     print("")
-    print("Account 1" + str(address1))
+    print("Account 1\n" + str(address1))
     print("mnemonic1 = \"{}\"\r\n".format(mnemonic1))
-    print("Account 2" + str(address2))
+    print("Account 2\n" + str(address2))
     print("mnemonic2 = \"{}\"\r\n".format(mnemonic2))
-    print("Account 3" + str(address3))
+    print("Account 3\n" + str(address3))
     print("mnemonic3 = \"{}\"\r\n".format(mnemonic3))
-    print("Account 4" + str(address4))
+    print("Account 4\n" + str(address4))
     print("mnemonic4 = \"{}\"\r\n".format(mnemonic4))
 
     # save accounts to file for later
