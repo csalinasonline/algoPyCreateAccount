@@ -108,8 +108,8 @@ conda deactivate
 ```
 
 ## About
-Medium: @csalinasonline
-LinkedIn: https://www.linkedin.com/in/conrad-salinas-17a29327
-Site: https://www.DeepHomebrew.com
-Medium Link: https://link.medium.com/C4GXyVMkPhb
-Site: https://deephomebrew.com/2021/06/30/project-blockchain-algorand-tutorial-1-create-account/
+Medium: @csalinasonline |
+LinkedIn: https://www.linkedin.com/in/conrad-salinas-17a29327 |
+Site: https://www.DeepHomebrew.com |
+Medium Link: https://link.medium.com/C4GXyVMkPhb |
+Site: https://deephomebrew.com/2021/06/30/project-blockchain-algorand-tutorial-1-create-account/ |
